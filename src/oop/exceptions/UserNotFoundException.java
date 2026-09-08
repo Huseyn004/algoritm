@@ -1,4 +1,4 @@
-package practice.exceptions;
+package oop.exceptions;
 
 public class UserNotFoundException extends RuntimeException {
     public UserNotFoundException(String message) {

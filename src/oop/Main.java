@@ -1,3 +1,5 @@
+package oop;
+
 import java.util.HashMap;
 import java.util.Map;
 
@@ -28,7 +30,10 @@ public class Main {
         }
 
         String result = x.replace("n", "");
-        System.out.println("Yekun söz: " + result);
+        System.out.println("Final word: " + result);
+
+
+
 
         StringBuilder y = new StringBuilder("alphabet");
         y.append("abc");

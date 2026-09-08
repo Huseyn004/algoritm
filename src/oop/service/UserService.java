@@ -1,9 +1,9 @@
-package practice.service;
+package oop.service;
 import java.util.ArrayList;
 import java.util.List;
-import practice.exceptions.NotAllowedException;
-import practice.exceptions.UserNotFoundException;
-import practice.model.User;
+import oop.exceptions.NotAllowedException;
+import oop.exceptions.UserNotFoundException;
+import oop.model.User;
 
 public class UserService {
     private List<User> userList = new ArrayList<>();
