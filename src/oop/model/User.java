@@ -1,4 +1,4 @@
-package practice.model;
+package oop.model;
 public class User {
     private String name;
 

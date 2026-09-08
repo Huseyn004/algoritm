@@ -1,8 +1,8 @@
-package practice;
-import practice.exceptions.NotAllowedException;
-import practice.exceptions.UserNotFoundException;
-import practice.model.User;
-import practice.service.UserService;
+package oop;
+import oop.exceptions.NotAllowedException;
+import oop.exceptions.UserNotFoundException;
+import oop.model.User;
+import oop.service.UserService;
 
 public class Exceptions {
     public static void main(String[] args) {
